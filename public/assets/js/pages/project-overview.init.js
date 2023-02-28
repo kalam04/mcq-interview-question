@@ -1,1 +1,1 @@
-document.querySelectorAll(".favourite-btn")&&document.querySelectorAll(".favourite-btn").forEach((function(t){t.addEventListener("click",(function(t){this.classList.toggle("active")}))}));
+var favouriteBtn=document.querySelectorAll(".favourite-btn");favouriteBtn&&document.querySelectorAll(".favourite-btn").forEach(function(t){t.addEventListener("click",function(t){this.classList.toggle("active")})});

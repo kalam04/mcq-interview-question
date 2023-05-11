@@ -39,23 +39,10 @@
                         <i class="ri-apps-2-line"></i> <span data-key="t-apps">Master Maintenance</span>
                     </a>
 
+                  
                 </li>
 
-                <li class="nav-item">
-                    <a class="nav-link menu-link" href="#sidebarTransection" data-bs-toggle="collapse" role="button"
-                        aria-expanded="false" aria-controls="sidebarTransection">
-                        <i class="ri-apps-2-line"></i> <span data-key="t-apps">Transection</span>
-                    </a>
 
-                </li>
-
-                <li class="nav-item">
-                    <a class="nav-link menu-link" href="#sidebarAccount" data-bs-toggle="collapse" role="button"
-                        aria-expanded="false" aria-controls="sidebarAccount">
-                        <i class="ri-apps-2-line"></i> <span data-key="t-apps">Account</span>
-                    </a>
-                   
-                </li>
 
 
 

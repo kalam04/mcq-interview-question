@@ -94,11 +94,13 @@
 
                                         <div class="mt-4">
                                             <button class="btn btn-success w-100" type="submit">Log In</button>
-                                            
+
                                         </div>
 
 
                                     </form>
+                                    <a class="btn btn-primary w-100 mt-2" href="{{ route('signup') }} ">Sign Up</a>
+
                                 </div>
                             </div>
                             <!-- end card body -->

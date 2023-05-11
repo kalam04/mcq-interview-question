@@ -19,7 +19,7 @@ class UserSeeder extends Seeder
             [
                 'name' => 'Admin',
                 'email' => 'admin@gmail.com',
-                'password' => '12345678',
+                'mobile' => '12345678',
             ]
             ];
         foreach ($user as $key => $value) {
